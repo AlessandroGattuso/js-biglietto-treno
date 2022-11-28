@@ -1,8 +1,7 @@
 //Declaring the local var
-let price             // price of the ticket
+let price               // price of the ticket
 let km;                 // user's kilometers
 let age;                // user's age
-let ticketPrice;        // Price of the ticket
 
 //Asking the input values
 km = parseInt(prompt("Quanti chilometri vuoi percorrere?")); 
